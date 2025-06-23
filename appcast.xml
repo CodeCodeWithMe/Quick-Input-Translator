@@ -4,11 +4,19 @@
         <title>Quick Input Translator</title>
         <item>
             <title>1.0.1</title>
-            <pubDate>Sun, 22 Jun 2025 19:52:59 +0800</pubDate>
+            <pubDate>Mon, 23 Jun 2025 10:05:20 +0800</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://apps.codecode.me/update/quick-input-translator/Quick%20Input%20Translator.zip" length="2829876" type="application/octet-stream" sparkle:edSignature="80CE73HJCyvEHErBwWD4csuR3UyiH0KF6t8NGum+HUoPbq7orNRUiY+851y4zPPYJBG75GieILigt5jZAe22Bg=="/>
+            <enclosure url="https://raw.githubusercontent.com/CodeCodeWithMe/Quick-Input-Translator/refs/heads/main/Quick%20Input%20Translator.dmg" length="4664069" type="application/octet-stream" sparkle:edSignature="sEASvS2cEwBo/S7hE4B8W4QqxdqkPj9voCIRp3sV2BDIN87v0ljZcbu0AgPlalgtZokCVNJWh62fCtEgo1acBg=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Mon, 23 Jun 2025 09:48:57 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/CodeCodeWithMe/Quick-Input-Translator/refs/heads/main/Quick%20Input%20Translator.dmg" length="4663334" type="application/octet-stream" sparkle:edSignature="pCjAxrzMWhqMXrvpIaw/3dQFP/TLG7VN4keFqJsG3IrBcr2O0KyUTNKefetXUyWblASgTGCQ98eSLHFw1lyKDA=="/>
         </item>
     </channel>
 </rss>
