@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Quick Input Translator</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Sun, 22 Jun 2025 19:52:59 +0800</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://apps.codecode.me/update/quick-input-translator/Quick%20Input%20Translator.zip" length="2829876" type="application/octet-stream" sparkle:edSignature="80CE73HJCyvEHErBwWD4csuR3UyiH0KF6t8NGum+HUoPbq7orNRUiY+851y4zPPYJBG75GieILigt5jZAe22Bg=="/>
+        </item>
+    </channel>
+</rss>
