@@ -3,6 +3,14 @@
     <channel>
         <title>Quick Input Translator</title>
         <item>
+            <title>1.0.5</title>
+            <pubDate>Wed, 25 Jun 2025 21:35:50 +0800</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/CodeCodeWithMe/Quick-Input-Translator/refs/heads/main/Quick%20Input%20Translator.dmg" length="5285642" type="application/octet-stream" sparkle:edSignature="3ubpvGttHZjRvIf448svLbTG0oj8p/L/tX4mA9LP2v4Xiqjm5olOJAaoTwxMDH4lguKg8kvAFY9w/RY86UVzCQ=="/>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Mon, 23 Jun 2025 14:53:20 +0800</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/CodeCodeWithMe/Quick-Input-Translator/refs/heads/main/Quick%20Input%20Translator.dmg" length="4664390" type="application/octet-stream" sparkle:edSignature="e1R4UG3+hD1uuPHqLQOejRWp8KPPILZS610KrJaR/311Boxjp1z6TY1qb+qkuDWFuxImsai4TAwvoizszhLBAQ=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Mon, 23 Jun 2025 10:05:20 +0800</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/CodeCodeWithMe/Quick-Input-Translator/refs/heads/main/Quick%20Input%20Translator.dmg" length="4664069" type="application/octet-stream" sparkle:edSignature="sEASvS2cEwBo/S7hE4B8W4QqxdqkPj9voCIRp3sV2BDIN87v0ljZcbu0AgPlalgtZokCVNJWh62fCtEgo1acBg=="/>
         </item>
     </channel>
 </rss>
