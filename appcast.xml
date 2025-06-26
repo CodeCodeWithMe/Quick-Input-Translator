@@ -8,7 +8,7 @@
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/CodeCodeWithMe/Quick-Input-Translator/refs/heads/main/Quick%20Input%20Translator.dmg" length="5337507" type="application/octet-stream" sparkle:edSignature="1wHkcVFRVTV9f3Epyhl1TtMC409KggjnEIxpExe5NaCjdgN0DEE1Gn592EtG5QqlBWVkJZsiD1Dqm7BjjgTNCA=="/>
+            <enclosure url="https://raw.githubusercontent.com/CodeCodeWithMe/Quick-Input-Translator/refs/heads/main/Quick%20Input%20Translator.dmg" length="5337423" type="application/octet-stream" sparkle:edSignature="ZkCnk7YQSwxTej/nZzkGzKOkrMPWgYi7TYtvi5UZStYZ+TPmN1wdoTCBoEPKwze/rlypaiyoDVOQ4O/O1BQoAA=="/>
         </item>
         <item>
             <title>1.0.5</title>
