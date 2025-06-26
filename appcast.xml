@@ -4,27 +4,11 @@
         <title>Quick Input Translator</title>
         <item>
             <title>1.0.7</title>
-            <pubDate>Thu, 26 Jun 2025 10:44:08 +0800</pubDate>
+            <pubDate>Thu, 26 Jun 2025 11:23:34 +0800</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/CodeCodeWithMe/Quick-Input-Translator/refs/heads/main/Quick%20Input%20Translator.dmg" length="5337423" type="application/octet-stream" sparkle:edSignature="ZkCnk7YQSwxTej/nZzkGzKOkrMPWgYi7TYtvi5UZStYZ+TPmN1wdoTCBoEPKwze/rlypaiyoDVOQ4O/O1BQoAA=="/>
-        </item>
-        <item>
-            <title>1.0.5</title>
-            <pubDate>Wed, 25 Jun 2025 21:35:50 +0800</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/CodeCodeWithMe/Quick-Input-Translator/refs/heads/main/Quick%20Input%20Translator.dmg" length="5285642" type="application/octet-stream" sparkle:edSignature="3ubpvGttHZjRvIf448svLbTG0oj8p/L/tX4mA9LP2v4Xiqjm5olOJAaoTwxMDH4lguKg8kvAFY9w/RY86UVzCQ=="/>
-        </item>
-        <item>
-            <title>1.0.3</title>
-            <pubDate>Mon, 23 Jun 2025 14:53:20 +0800</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/CodeCodeWithMe/Quick-Input-Translator/refs/heads/main/Quick%20Input%20Translator.dmg" length="4661764" type="application/octet-stream" sparkle:edSignature="fAcfYm8Z6IZAiLfFa46d3QVIdPks3Sfg4wc+d2eVvvGgvSEAoTn//tMq66xsZlO4q1JmA8q7H4J9PqITn3xsDw=="/>
         </item>
     </channel>
 </rss>
