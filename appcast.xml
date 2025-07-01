@@ -3,6 +3,14 @@
     <channel>
         <title>Quick Input Translator</title>
         <item>
+            <title>1.0.13</title>
+            <pubDate>Tue, 01 Jul 2025 14:27:42 +0800</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/CodeCodeWithMe/Quick-Input-Translator/refs/heads/main/Quick%20Input%20Translator.dmg" length="5386026" type="application/octet-stream" sparkle:edSignature="cFsaZTDDfQSH/21dEpHnvn/nmUS+5i6Rh0DXCcK46jV1yEHm7YNXzjYIdhZgNTPYJbNbcH6cQBb5EJNRYih+Cg=="/>
+        </item>
+        <item>
             <title>1.0.12</title>
             <pubDate>Fri, 27 Jun 2025 21:36:33 +0800</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/CodeCodeWithMe/Quick-Input-Translator/refs/heads/main/Quick%20Input%20Translator.dmg" length="5339477" type="application/octet-stream" sparkle:edSignature="YpQ6YeCPiZ/J5XQ7fn8iAUZHzGeHKarLrhn9KWvbBTEwKUdj9dzuARK0ll27PJOxNeyTcM8ior3v1cM2c7J0DA=="/>
-        </item>
-        <item>
-            <title>1.0.10</title>
-            <pubDate>Fri, 27 Jun 2025 12:53:14 +0800</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/CodeCodeWithMe/Quick-Input-Translator/refs/heads/main/Quick%20Input%20Translator.dmg" length="5340107" type="application/octet-stream" sparkle:edSignature="o/6v2gpQSuoO3dx8GpmdFrySjGktiLfXaxYN33ppbi8ENQLI0jKY6708mXnJkzBcYhR53B8kzHL7A2ADuDbmCw=="/>
         </item>
     </channel>
 </rss>
